@@ -21,7 +21,7 @@ def main():
         elif opc == 3:
             print(yardas_cm(valor))
         else:
-            print("Error")
+            print('Error')
     else:
         print("Error")
 
